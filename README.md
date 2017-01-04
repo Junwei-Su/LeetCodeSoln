@@ -1,2 +1,2 @@
 # LeetCodeSoln
-This repo contains my solution for the problems I solved in leetCode
+This repo contains my solutions for some of the problems(not a full collection of questions) I solved in leetCode
